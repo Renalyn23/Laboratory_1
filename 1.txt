@@ -1,0 +1,7 @@
+Student No.: 1
+Full Name: Renalyn E Mangilimotan
+Program: BSIT
+Age: 23
+Gender: Female
+Birthday: 2003-05-30
+Contact No.: 0992673199
